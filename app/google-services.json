@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650008274486",
+    "project_id": "niaraland-speed-test",
+    "storage_bucket": "niaraland-speed-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650008274486:android:51c12d034de6cec34d9a97",
+        "android_client_info": {
+          "package_name": "com.nairaland.speedtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650008274486-k1vof93jqkmml8aktjrkv12ml4v7eb4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nairaland.speedtest",
+            "certificate_hash": "3c29d14240958c4f80fb79a7ded81547fb744100"
+          }
+        },
+        {
+          "client_id": "650008274486-j6irt1g94vks4f5f4ojk5eptref6pq50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwSPdy4KdL1ptCmH94npLrltwn4MmQn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650008274486-j6irt1g94vks4f5f4ojk5eptref6pq50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
